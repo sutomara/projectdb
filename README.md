@@ -25,20 +25,6 @@ Key tables:
 - SQL (DDL, DML, and SELECT queries)
 - Database design principles
 
-## Files
-
-- `schema.sql` – Database schema
-- `insert_data.sql` – Sample data
-- `queries.sql` – Diverse SELECT statements
-- `project_description.pdf` – Full documentation and explanation
-
-## Getting Started
-
-1. Clone the repository
-2. Run `schema.sql` in your SQL environment
-3. Load sample data using `insert_data.sql`
-4. Explore insights with `queries.sql`
-
 ## License
 
 This project is for educational use.
